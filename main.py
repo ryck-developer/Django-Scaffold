@@ -32,6 +32,6 @@ for i in attributes:
 
 
 """
-python generate_view.py --models Funcionario --atributos nome salario_bruto horas_trabalhadas descontos impostos
+python main.py --models Funcionario --atributos nome salario_bruto horas_trabalhadas descontos impostos
 
 """
